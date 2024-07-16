@@ -1,6 +1,6 @@
-.v-container .image-container{
+/* .v-container .image-container{
     border:5px solid grey;
-}
+} */
 .v-container>div{
     flex:1;
 }
